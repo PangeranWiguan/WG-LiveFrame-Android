@@ -18,8 +18,8 @@
 ## **Installation**
 
 ### **Step 1: Download the APK**
-Download the latest release from the [Releases](https://github.com/<username>/<repository>/releases) page:
-- Latest version: [wg-liveframe-v0.1.apk](https://github.com/<username>/<repository>/releases/download/v0.1/wg-liveframe-v0.1.apk)
+Download the latest release from the [Releases](https://github.com/PangeranWiguan/WG-LiveFrame-Android/releases) page:
+- Latest version: [wg-liveframe-v0.1.apk](https://github.com/PangeranWiguan/WG-LiveFrame-Android/releases/download/v0.1/wg-liveframe-v0.1.apk)
 
 ### **Step 2: Install the App**
 1. Enable **Unknown Sources** on your device:
