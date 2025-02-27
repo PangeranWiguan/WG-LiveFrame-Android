@@ -23,7 +23,7 @@
  * Email: pangeranwiguan@gmail.com
  * Since: 1.0.0
  */
-package com.example.wgliveframe
+package com.pangeranwiguan.wgliveframe
 
 import android.Manifest
 import android.content.Context

@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.wgliveframe"
+    namespace = "com.pangeranwiguan.wgliveframe"
     compileSdk = 35
 
     defaultConfig {
